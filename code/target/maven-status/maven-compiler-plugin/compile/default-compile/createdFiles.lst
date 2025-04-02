@@ -1,0 +1,5 @@
+test\OradorTest.class
+model\Orador.class
+bd\Conexion.class
+dao\OradorDAO.class
+model\Persona.class
